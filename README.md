@@ -7,13 +7,13 @@ Installation
 To use this application you will need [Java 1.7 or later](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html).
 You will also need [maven](https://maven.apache.org) to build the application.
 
-1. Clone the repository using git.
+* Clone the repository using git.
 
 ```
 git clone https://github.com/khalemano/VDJMut.git
 ```
 
-2. Make a target directory and call maven to build the application.
+* Make a target directory and call maven to build the application.
 
 ```
 cd VDJMut
@@ -21,7 +21,7 @@ mkdir -p  target/classes/
 mvn package
 ```
 
-3. A jar-with-dependencies.jar file will appear in the target/ directory
+* A jar-with-dependencies.jar file will appear in the target/ directory
 
 Usage
 ----
