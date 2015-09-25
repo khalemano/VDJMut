@@ -13,15 +13,14 @@ You will also need [maven](https://maven.apache.org) to build the application.
 git clone https://github.com/khalemano/VDJMut.git
 ```
 
-* Make a target directory and call maven to build the application.
+* Call maven to build the application.
 
 ```
 cd VDJMut
-mkdir -p  target/classes/
 mvn package
 ```
 
-* A jar-with-dependencies.jar file will appear in the target/ directory
+* A jar-with-dependencies.jar file will appear in the VDJMut/target/ directory
 
 Usage
 ----
